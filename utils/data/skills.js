@@ -12,7 +12,11 @@ export const skillsData = [
   'Figma',
   'MaterialUI',
   'Java',
-  "Wordpress"
+  "Wordpress",
+  "Express",
+  "Redux",
+  "Git",
+  "Photoshop"
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -102,3 +106,4 @@ export const skillsData = [
   Webex
   Wordpress
 */
+
